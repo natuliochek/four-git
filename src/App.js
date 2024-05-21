@@ -4,6 +4,7 @@ function App() {
   return (
     <div className='main'>
       <h1>Hello, GitHub waits for us!</h1>
+      <h2>Learn REACT !!!</h2>
     </div>
   );
 }
